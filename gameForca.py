@@ -4,7 +4,7 @@ mudarCor()
 
 limparTela()
 print("//////////////////////////////////////////")
-print ("     Precione enter para começar!")
+print ("     Pressione enter para começar!")
 print (input("//////////////////////////////////////////"))
 limparTela()
 arquivo = open("banco_dados.txt", "r")
